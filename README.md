@@ -21,5 +21,4 @@ In this project, I have created a visual representation of crucial sales metrics
 - Top Sales by Location and Manager: It shows that Sadie from the West Region as the top-performing manager. She has achieved remarkable success with a notable total current-year profit of $44k.
 
 ![Sale Insights](https://github.com/akankshalksingh/Sales-Dashboard-using-Tableau/assets/76152292/28f7f026-d3b6-4ce6-8958-096699b6461f)
-)
 
